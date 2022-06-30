@@ -1,13 +1,13 @@
 {
 	"info": {
-		"_postman_id": "6b51c591-cde2-4c85-b1a8-15c3b15c3f34",
+		"_postman_id": "18fe60be-927f-417b-9de4-e87d08a278b6",
 		"name": "test_postman_sync",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "15897651"
 	},
 	"item": [
 		{
-			"name": "New Request",
+			"name": "ceci est un test",
 			"protocolProfileBehavior": {
 				"followOriginalHttpMethod": false
 			},
