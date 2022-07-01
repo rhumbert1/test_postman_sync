@@ -1,0 +1,21 @@
+_id: req_39ba3583be014654be63e6a3d7a22e8c
+type: Request
+parentId: wrk_0c7503b069fa4ce68f2d5bbf4476efe3
+modified: 1656680535917
+created: 1656680458312
+url: https://jsonplaceholder.typicode.com/users
+name: My Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656680458312
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
